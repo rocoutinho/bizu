@@ -1,0 +1,20 @@
+     --------------------------------------
+     TENSÕES E DEFORMAÇÕES (Análise FEA)
+     --------------------------------------
+     Tensão principal máxima (S1)         = -5.5862 MPa
+     Tensão principal média  (S2)         = -48.137 MPa
+     Tensão principal mínima (S3)         = -373.38 MPa
+     Tensão equivalente (Se)              = 348.47 MPa
+     Deformação plástica equivalente (ep) = 0.104 mm/mm
+     ----------------------------------------------------------------
+     LIMITE DE DEFORMAÇÃO TRIAXIAL (ASME Sec. VIII Div. 2, eq. 5.6)
+     ----------------------------------------------------------------
+     Relação tensão escoamento/ruptura (R)  = 0.4
+     Constante de material (m2 -> Aço inox) = 0.45 mm/mm
+     Fator de material (asl -> Aço inox)    = 0.6
+     Deformação Uniaxial (eLU)              = 0.45 mm/mm
+     Limite de Deformação Triaxial (eL)     = 0.331 mm/mm
+     ----------------------------------------------------------------
+     MÁXIMO DANO DE DEFORMAÇÃO
+     ----------------------------------------------------------------
+     Dano de Deformação (De = eL/ep)        = 0.31
